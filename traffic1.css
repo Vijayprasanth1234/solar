@@ -1,0 +1,44 @@
+.vijay{
+    background-color: black;
+    height: 400px;
+    width: 160px;
+    margin-left: 100px;
+}
+.su{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    margin-left: 30px;
+    
+}
+.ak{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.vi{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.od{
+    background-color: black;
+    height: 150px;
+    width: 20px;
+    margin-left: 70px;
+    
+}
+.sus{
+    background-color: black;
+    height: 50px;
+    width: 180px;
+    margin-left: -9px;
+
+}   

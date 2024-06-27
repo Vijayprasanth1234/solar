@@ -1,0 +1,95 @@
+.or{
+    background-color: orange;
+    height: 90px;
+    width: 390px;
+    margin-left: 100px;
+}
+.wh{
+    background-color: white;
+    height: 90px;
+    width: 390px;
+    margin-left: 100px;
+}
+.gr{
+    background-color: green;
+    height: 90px;
+    width: 390px;
+    margin-left: 100px;
+}
+.do{
+    border: solid 2px;
+    height: 85px;
+    width: 85px;
+    border-radius: 90px;
+    margin-top: -180px;
+    margin-left: 250px;
+    color: blue;
+}
+.one{
+    border: solid 2px;
+    width: 85px;
+    color: blue;
+    margin-top: -45px;
+    margin-left: 250px;
+}
+.two{
+    border: solid 2px;
+    width: 82px;
+    color: blue;
+    margin-top: -4px;
+    margin-left: 251px;
+    transform: rotate(90deg);
+}
+.thre{
+    border: solid 2px;
+    width: 80px;
+    color: blue;
+    margin-top:-5px;
+    margin-left: 253px;
+    transform: rotate(50deg);
+    
+}
+.four{
+    border: solid 2px;
+    width: 80px;
+    color: blue;
+    margin-top:-5px;
+    margin-left: 253px;
+    transform: rotate(70deg);
+    
+}
+.five{
+    border: solid 2px;
+    width: 80px;
+    color: blue;
+    margin-top:-5px;
+    margin-left: 253px;
+    transform: rotate(120deg);
+}
+.six{
+    border: solid 2px;
+    width: 83px;
+    color: blue;
+    margin-top:-5px;
+    margin-left: 253px;
+    transform: rotate(150deg);
+}
+.seven{
+    border: solid 2px;
+    width: 84px;
+    color: blue;
+    margin-top:-5px;
+    margin-left: 250px;
+    transform: rotate(204deg);
+}
+.eight{
+   background-color: blue;
+   height: 20px;
+   width: 20px;
+   border-radius: 20px;
+   margin-left: 285px;
+   margin-top: -10px;
+
+
+}
+
